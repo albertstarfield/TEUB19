@@ -25,4 +25,5 @@ https://drive.google.com/drive/folders/16o-OefDpcEULy6BBTbmETGqR8mVSvt-l
 https://github.com/wahyusuryosamudro/TEUB19/releases/tag/1
 
 ## Agama Islam
-> Catatan Pertama https://github.com/wahyusuryosamudro/TEUB19/releases/tag/v1
+> Catatan : Catatan belum di validasi secara sepenuhnya gunakan hanya untuk referensi
++ (Catatan Pertama )[https://github.com/wahyusuryosamudro/TEUB19/releases/tag/v1]
