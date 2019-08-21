@@ -14,15 +14,16 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 > Unavailable ( pending )
 
 ## Fisika I
-> Ebooks Provided by Mitha 
-https://drive.google.com/drive/folders/16o-OefDpcEULy6BBTbmETGqR8mVSvt-l
+> Ebooks
++ [Ebooks Provided by Mitha Books](https://drive.google.com/drive/folders/16o-OefDpcEULy6BBTbmETGqR8mVSvt-l)
 
 ## Matematika I
 > Unavailable ( pending )
 
 ## Pemerograman dasar
-> Source Pak Ali Mustofa 
-https://github.com/wahyusuryosamudro/TEUB19/releases/tag/1
+> Source Pak Ali Mustofa
+> Materi sudah komplit untuk semester 1
++ [ Materi Pemerograman Dasar Semester 1 ] (https://github.com/wahyusuryosamudro/TEUB19/releases/tag/1)
 
 ## Agama Islam
 > Catatan : Catatan belum di validasi secara sepenuhnya gunakan hanya untuk referensi
