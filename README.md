@@ -14,4 +14,4 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 >
 
 ## Pemerograman dasar
-> 
+> https://github.com/wahyusuryosamudro/TEUB19/releases/tag/1
