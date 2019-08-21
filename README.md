@@ -6,12 +6,12 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 > Unavailable
 
 ## Fisika I
-> Ebook https://drive.google.com/drive/folders/16o-OefDpcEULy6BBTbmETGqR8mVSvt-l
+> Ebooks Provided by Mitha https://drive.google.com/drive/folders/16o-OefDpcEULy6BBTbmETGqR8mVSvt-l
 
 ## Matematika I
-> 
->
->
+> null
 
 ## Pemerograman dasar
 > https://github.com/wahyusuryosamudro/TEUB19/releases/tag/1
+
+## Agama Islam
