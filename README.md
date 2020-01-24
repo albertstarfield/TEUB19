@@ -1,5 +1,6 @@
 # TEUB19
 Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkatan 2019
+DEPRECATION IS IMMINENT
 
 
 # Pedoman Perkuliahan
