@@ -32,3 +32,7 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 ## Agama Islam
 > Catatan : Catatan belum di validasi secara sepenuhnya gunakan hanya untuk referensi
 + [ Catatan Pertama ](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/v1)
+
+## Probabilitas dan Statistika 
+> Ini adalah bahan bahan dan materinya
++ [Probstat](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/99)
