@@ -24,6 +24,10 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 ## Matematika I
 > Unavailable ( pending )
 
+## matematika II
+> Analitik Geometri
++[ Resource Analitik Geometri Englis ] (https://github.com/wahyusuryosamudro/TEUB19/releases/tag/lolololol)
+
 ## Pemerograman dasar
 > Source Pak Ali Mustofa
 > Materi sudah komplit untuk semester 1
@@ -36,3 +40,4 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 ## Probabilitas dan Statistika 
 > Ini adalah bahan bahan dan materinya
 + [Probstat](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/99)
+
