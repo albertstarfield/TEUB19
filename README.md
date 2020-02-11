@@ -42,5 +42,6 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 + [Probstat](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/99)
 
 ## basic digital engineering
+> ini adalah kumpulan materi dtd
 + [dtdsmt2](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/smt2)
 
