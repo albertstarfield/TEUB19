@@ -45,3 +45,6 @@ Repository untuk materi materi kelas Teknik elektro Universitas Brawijaya angkat
 > ini adalah kumpulan materi dtd
 + [dtdsmt2](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/smt2)
 
+## Electrical circuit
++ [EC](https://github.com/wahyusuryosamudro/TEUB19/releases/tag/smt1)
+
